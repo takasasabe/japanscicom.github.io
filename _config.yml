@@ -208,10 +208,10 @@ footerBlocks:
   title: "Contact / お問い合わせ"
   links:
    - {link: "mailto:jsf18@kikenji.sakura.ne.jp", text: "Email jsf18@kikenji.sakura.ne.jp （日本語でのお問い合わせにも対応しています）"}
-# -
-#  title: "FAQ"
-#  links:
-#   - {permalink: "/cod/", text: "Code of Conduct"}
+ -
+  title: "Code of Conduct"
+  links:
+   - {permalink: "/cod/", text: "Let's have an inclusive meeting!"}
 
 # Blog
 blogTitle: "Latest news"
