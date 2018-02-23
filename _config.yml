@@ -50,7 +50,8 @@ navigationLinks:
 - {permalink: "#speakers", text: "Speakers"}
 - {permalink: "#schedule", text: "Schedule"}
 - {permalink: "#location", text: "Access"}
-- {permalink: "#team", text: "Sponsors"}
+- {permalink: "#sponsors", text: "Sponsors"}
+- {permalink: "#team", text: "Organizers"}
 bottomNavigationLinks:
 - {link: "https://goo.gl/forms/px3ixCrFFUqvW2Ll1", text: "Register"}
 rightNavigationButtons:
@@ -138,6 +139,9 @@ twitterHashTag: "jsf18"
 organizersTitle: "Supported by"
 #partnersTitle: "Partners"
 #partnersC4sponsorsButton: "Become a sponsor"
+
+# Organizing Team Block
+teamBlockTitle: "Organizers"
 
 # Subscribe Block
 subscribeImage: "keyboard-street-art.jpg"
