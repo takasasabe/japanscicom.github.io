@@ -5,13 +5,13 @@
         <div class="col-lg-10 col-lg-offset-1">
             <h3>{{ site.teamBlockTitle }}</h3>
                 {% for teamMember in site.data.team %}
-                <h4 class="name">{{ teamMember.name }}, {{ teamMember.affiliation }}
+                <h5 class="name">{{ teamMember.name }}, {{ teamMember.affiliation }}
                     {% for social in teamMember.social %}
                         &middot; <a href="{{ social["prefix"] }}{{ social["username"] }}" target="_blank"><svg class="icon icon-{{ social["name"] }}" viewBox="0 0 30 32">
                             <use xlink:href="{{ site.baseurl }}/img/sprites/sprites.svg#icon-{{ social["name"] }}"></use>
                         </svg> @{{ social["username"] }}</a>
                     {% endfor %}
-                </h4>
+                </h5>
                 {% endfor %}
         </div>
         <!--
