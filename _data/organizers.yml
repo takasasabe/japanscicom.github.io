@@ -3,5 +3,6 @@
   elements: 
      - {name: "ELSI", description: "Earth-Life Science Institute", link: "http://www.elsi.jp/en/", imageUrl: "elsilogo.png"}
      - {name: "EurekAlert!", description: "The global source for science news", link: "https://www.eurekalert.org/", imageUrl: "EurekAlertlogo.jpg"}
+     - {name: "RUC", description: "Research University Consortium", link: "http://www.consortium.or.jp/project/zenkoku-conso/office", imageUrl: "RUClogo.jpg"}
  
 - 
