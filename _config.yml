@@ -108,9 +108,9 @@ eventLocationName: "Earth-Life Science Institute (ELSI)"
 eventLocationLink: "https://goo.gl/maps/Tp8hZYm6rZT2"
 eventStreetAddress: "2-12-1-17E Ookayama, (Ishikawadai Bldg. 7/ELSI-1 Bldg.)"
 eventAddressLocality: "Meguro-ku, Tokyo"
-eventAddressLocalityRegion: "東京工業大学　地球生命研究所<br>東京都目黒区大岡山２ー１２ー１ー１７Ｅ"
+eventAddressLocalityRegion: "東京工業大学　地球生命研究所<br>東京都目黒区大岡山２ー１２ー１ー１７Ｅ　石川台７号館 (ＥＬＳＩー１)"
 eventPostalCode: "152-8550"
-eventAddressCountry: "石川台７号館 (ＥＬＳＩー１)"
+#eventAddressCountry: "Japan"
 eventLocationDescription: "The meeting will be held in ELSI Hall, ELSI-1 building, 1F. Further directions can be found <a href='http://www.elsi.jp/en/access.html'>here</a>."
 
 
