@@ -111,6 +111,9 @@ eventAddressLocality: "Tokyo"
 eventAddressLocalityRegion: "東京工業大学　地球生命研究所<br>東京都目黒区大岡山２ー１２ー１ーＩＥー１"
 eventPostalCode: "152-8550"
 #eventAddressCountry: "Japan"
+eventLocationDescription: "The meeting will be held in ELSI Hall, ELSI-1 building, 1F. Further directions can be found <a href='http://www.elsi.jp/en/access.html'>here</a>." 
+
+
 
 #eventStartTime: "2018-04-18T09:00"
 #eventDoorTime: "08:30"
