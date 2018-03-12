@@ -2,7 +2,9 @@
 <section id="partners" class="partners">
  <a name="sponsors"></a>
     <div class="content-wrapper">
-        <div class="col-lg-10 col-lg-offset-1">
+  <!--    <div class="col-lg-10 col-lg-offset-1"> -->
+
+	  <!-- remove organisers and keep everyone in partners 
             <h3>{{ site.organizersTitle }}</h3>
             {% for organizer in site.data.organizers %}
             <h5>{{ organizer.group }}</h5>
@@ -16,27 +18,28 @@
                 {% endfor %}
             </ul>
             {% endfor %}
-<!-- comment out links for partners (have ELSI and EurekAlert above)
-
+	   -->
            <h3>{{ site.partnersTitle }}</h3>
             {% for partner in site.data.partners %}
             <h5>{{ partner.group }}</h5>
             <ul class="list-inline">
                 {% for element in partner.elements %}
-                <li {% if element.width != null %}style="width: {{ element.width }};"{% endif %}>
+               <li {% if element.width != null %}style="width: {{ element.width }};"{% endif %}> 
                     <a href="{{ element.link }}" target="_blank">
-                        <img src="{{ site.baseurl }}/img/partners/{{ element.imageUrl }}" title="{{ element.description }}" alt="{{ element.name }}">
+                        <img src="{{ site.baseurl }}/img/partners/{{ element.imageUrl }}" title="{{ element.description }}"
+            alt="{{ element.name }}" width="{{ element.imagewidth }}">
                     </a>
-                </li>
+                  {% if element.text != null %}
+	          <p>&nbsp;</p>
+	      <ul class="list-inline">
+		<li style="width: 45%"><p align="left" style="line-height:1.65"><font size="3">{{ site.partnerText }}</font></p></li>
+	       <li style="width: 45%"><p align="left"><font size="3">{{ site.partnerTextJP }}</font></p></li>
+	      </ul>    {% endif %}
+	      </li>
                 {% endfor %}
             </ul>
             {% endfor %}
-            <a href="{{ site.c4sponsorsUrl | prepend: site.baseurl }}"
-	    class="btn btn-primary waves-effect waves-button
-	    waves-light waves-float">{{ site.partnersC4sponsorsButton -->
-	    <!--}}</a>
--->
-        </div>
+    <!--    </div> -->
     </div>
 </section>
 <!-- End Partners Section -->
