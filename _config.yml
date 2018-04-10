@@ -65,7 +65,7 @@ logo: "scicomlogo.png"
 typeoutTextValues: '"", "SciCom", "サイコム", ""'
 typeoutFallback: "SciCom"
 heroButtons:
-- {link: "https://goo.gl/forms/px3ixCrFFUqvW2Ll1", text: "FREE Registration / 参加登録は無料"}
+- {link: "https://goo.gl/forms/px3ixCrFFUqvW2Ll1", text: "Registration closed / 参加登録締め切りました"}
 # - {permalink: "/#tickets", text: "Register"}
 
 # About Block
@@ -154,7 +154,7 @@ subscribeImage: "keyboard-street-art.jpg"
 subscribeTitle: "Registration"
 
 #subscribeAction: "http://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
-subscribeInfo: "Registration is free but limited to 100 people! <br>参加登録は無料、定員100名"
+subscribeInfo: "Registration is now full. Walk-in attendance may be possible on the day but is not guaranteed. Tune into the livestream starting at 9:00 on April 20 [URL to be announced].<br>定員に達しましたので、参加登録を締め切りました。当日の参加登録は、参加者の出席状況によって受け付ける可能性があります。午前中のセッションはライブ配信を予定しております。"
 
 # Tickets Block
 #ticketsTitle: "Pricetable"
