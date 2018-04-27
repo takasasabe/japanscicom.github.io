@@ -66,7 +66,7 @@ typeoutTextValues: '"", "SciCom", "サイコム", ""'
 typeoutFallback: "SciCom"
 heroButtons:
 - {link: "https://goo.gl/forms/px3ixCrFFUqvW2Ll1", text: "Registration closed / 参加登録締め切りました"}
-- {link: "https://www.facebook.com/EurekAlert/videos/10156060520701327/", text: "Livestream / ライブ配信"}
+- {link: "", text: "Livestream / ライブ配信"}
 # - {permalink: "/#tickets", text: "Register"}
 
 # About Block
