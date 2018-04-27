@@ -66,7 +66,7 @@ typeoutTextValues: '"", "SciCom", "サイコム", ""'
 typeoutFallback: "SciCom"
 heroButtons:
 - {link: "https://goo.gl/forms/px3ixCrFFUqvW2Ll1", text: "Registration closed / 参加登録締め切りました"}
-- {link: "", text: "Livestream / ライブ配信"}
+- {link: "https://www.youtube.com/playlist?list=PL8VSGt4CBls32K-mpzW6xW1SubW5vnqgD", text: "Recording / 動画"}
 # - {permalink: "/#tickets", text: "Register"}
 
 # About Block
