@@ -66,7 +66,7 @@ typeoutTextValues: '"", "SciCom", "サイコム", ""'
 typeoutFallback: "SciCom"
 heroButtons:
 - {link: "https://goo.gl/forms/px3ixCrFFUqvW2Ll1", text: "Registration closed / 参加登録締め切りました"}
-- {link: "https://www.facebook.com/EurekAlert/videos/10156060520701327/", text: "Livestream / ライブ配信"}
+- {link: "https://www.youtube.com/playlist?list=PL8VSGt4CBls32K-mpzW6xW1SubW5vnqgD", text: "Recordings / 動画"}
 # - {permalink: "/#tickets", text: "Register"}
 
 # About Block
@@ -156,7 +156,7 @@ subscribeTitle: "Registration"
 
 #subscribeAction: "http://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
 
-subscribeInfo: "Registration is now full. Walk-in attendance may be possible on the day but is not guaranteed. Tune into <a href='https://www.facebook.com/EurekAlert/videos/10156060520701327/' target='_blank'>the livestream</a> starting at 9:00 on April 20.<br>定員に達しましたので、参加登録を締め切りました。当日の参加登録は、参加者の出席状況によって受け付ける可能性があります。午前中のセッションは<a href='https://www.facebook.com/EurekAlert/videos/10156060520701327/' target='_blank'>ライブ配信</a>を予定しております。"
+subscribeInfo: "Registration is now full. Walk-in attendance may be possible on the day but is not guaranteed. Tune into the livestream starting at 9:00 on April 20.*Update* Videos of the morning session can be viewed <a hrer="https://www.youtube.com/playlist?list=PL8VSGt4CBls32K-mpzW6xW1SubW5vnqgD" target="_blank">here</a><br>定員に達しましたので、参加登録を締め切りました。当日の参加登録は、参加者の出席状況によって受け付ける可能性があります。午前中のセッションはライブ配信を予定しております。*当日の午前中の様子が動画で見られるようになりました。<a hrer="https://www.youtube.com/playlist?list=PL8VSGt4CBls32K-mpzW6xW1SubW5vnqgD" target="_blank">こちら</a>からご覧ください。*"
 
 
 # Tickets Block
