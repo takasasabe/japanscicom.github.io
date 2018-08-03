@@ -11,7 +11,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 # Site Settings
 title: "Japan SciCom Forum"
-email: "jsf18@kikenji.sakura.ne.jp"
+email: ""
 description: "Join us to discuss global science communication & outreach in Japan / 英語による科学広報やアウトリーチを一緒に考えませんか？"
 baseurl: ""
 url: "https://japanscicom.github.io"
@@ -216,7 +216,7 @@ footerBlocks:
 -
   title: "Contact / お問い合わせ"
   links:
-   - {link: "mailto:jsf18 at kikenji dot sakura dot ne dot jp", text: "Email jsf18@kikenji.sakura.ne.jp （日本語でのお問い合わせにも対応しています）"}
+   - {"", text: "Email jsf18 at kikenji dot sakura dot ne dot jp （日本語でのお問い合わせにも対応しています）"}
 -
   title: "Code of Conduct / 参加者の心構え（行動規範）"
   links:
