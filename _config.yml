@@ -67,7 +67,7 @@ typeoutFallback: "SciCom"
 heroButtons:
 - {link: "https://goo.gl/forms/px3ixCrFFUqvW2Ll1", text: "Registration closed / 参加登録締め切りました"}
 - {link: "https://www.youtube.com/playlist?list=PL8VSGt4CBls32K-mpzW6xW1SubW5vnqgD", text: "New Video / 動画"}
-- {link: "https://jcom.sissa.it/archive/17/03/JCOM_1703_2018_R01", text: "New paper / 論文"}
+- {link: "https://jcom.sissa.it/archive/17/03/JCOM_1703_2018_R01", text: "CONFERENCE REVIEW / 論文"}
 # - {permalink: "/#tickets", text: "Register"}
 
 # About Block
