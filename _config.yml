@@ -53,9 +53,9 @@ navigationLinks:
 - {permalink: "/#sponsors", text: "Sponsors"}
 - {permalink: "/#team", text: "Organizers"}
 bottomNavigationLinks:
-- {link: "https://goo.gl/forms/px3ixCrFFUqvW2Ll1", text: "Register"}
+- {link: "", text: "Register"}
 rightNavigationButtons:
-- {link: "https://goo.gl/forms/px3ixCrFFUqvW2Ll1", text: "Register"}
+- {link: "", text: "Register"}
 
 # Hero Block (heading with scrolling text)
 heroImage: "hero_background.jpg"
