@@ -14,15 +14,22 @@
     - {name: "twitter", prefix: "https://twitter.com/", username: "neuroamanda"}
 -
   id: 2
-  name: "Elizabeth Tasker"
+  name: "Thilina Heenatigala"
   team: true
-  affiliation: JAXA
+  affiliation: ELSI
   social:
-    - {name: "twitter", prefix: "https://twitter.com/", username: "girlandkat"}
+    - {name: "twitter", prefix: "https://twitter.com/", username: "ThilinaH"}
 -
   id: 3
-  name: "Motoko Kakubayashi"
+  name: "Taka Sasabe"
   team: true
-  affiliation: University of Tokyo
+  affiliation: RIKEN
+  #social:
+    #- {name: "twitter", prefix: "https://twitter.com/", username: ""}#
+-
+  id: 4
+  name: "Natori Kaoru"
+  team: true
+  affiliation: OIST
   social:
-    - {name: "twitter", prefix: "https://twitter.com/", username: "motokokaku"}
+  - {name: "twitter", prefix: "https://twitter.com/", username: "kaoru_natori"}
