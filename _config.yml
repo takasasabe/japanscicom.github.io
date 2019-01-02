@@ -217,7 +217,7 @@ footerBlocks:
 #   - {link: "https://developers.google.com", text: "Google Developers"}
 -
   title: "Contact / お問い合わせ"
-  links:
+  organizerEmail:
    - {"jsf19@kikenji.sakura.ne.jp", text: "Email us （日本語でのお問い合わせにも対応しています）"}
 -
   title: "Code of Conduct / 参加者の心構え（行動規範）"
