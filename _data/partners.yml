@@ -11,4 +11,3 @@
   elements:
     - {name: "EurekAlert!", description: "The global source for science news", link: "https://www.eurekalert.org/", imageUrl: "EurekAlertlogo.jpg", width: "180px", imagewidth: "180"}
     - {name: "RUC", description: "Research University Consortium", link: "http://www.ruconsortium.jp", imageUrl: "RUClogo.jpg", width: "340px", imagewidth: "340"}
-    - {name: "RIKEN", description: "RIKEN", link: "http://www.riken.jp/en/", imageUrl: "RIKEN.gif", width: "180px", imagewidth: "180"}
