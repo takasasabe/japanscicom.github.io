@@ -3,7 +3,7 @@
   elements:
     - {name: "ELSI", description: "Earth-Life Science Institute", link: "http://www.elsi.jp/en/", imageUrl: "elsilogo.png", text: "1", width: "800px", imagewidth: "200"}
 -
-    group: <a href="http://www.riken.jp/en/pr/events/" target=_blank>"RIKEN Symposium series"</a>
+    group: <a href="http://www.riken.jp/en/pr/events/" target=_blank>RIKEN Symposium series</a>
     elements:
       - {name: "RIKEN", description: "RIKEN", link: "http://www.riken.jp/en/", imageUrl: "RIKEN.gif", width: "180px", imagewidth: "180"}
 -
