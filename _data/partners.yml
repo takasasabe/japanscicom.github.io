@@ -2,7 +2,7 @@
   group: " "
   elements:
     - {name: "ELSI", description: "Earth-Life Science Institute", link: "http://www.elsi.jp/en/", imageUrl: "elsilogo.png", text: "1", width: "800px", imagewidth: "200"}
-    - {name: "RIKEN", description: "RIKEN", link: "http://www.riken.jp/en/", imageUrl: "RIKEN_red.jpg", text: "Japan Scicom Forum is part of the RIKEN Symposium series", width: "800px", imagewidth: "200"}
+    - {name: "RIKEN", description: "RIKEN", link: "http://www.riken.jp/en/", imageUrl: "RIKEN_red.jpg", text: "", width: "800px", imagewidth: "200"}
 -
   group: "With additional support from"
   elements:
