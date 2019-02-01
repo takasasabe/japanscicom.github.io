@@ -5,7 +5,7 @@
 -
   group: "Part of the RIKEN Symposium series"
   elements:
-        - {name: "RIKEN", description: "RIKEN", link: "http://www.riken.jp/en/", imageUrl: "RIKEN_red.jpg", imagewidth: "200"}
+        - {name: "RIKEN", description: "RIKEN", link: "http://www.riken.jp/en/", imageUrl: "RIKEN_red.jpg", imagewidth: "340"}
 -
   group: "With additional support from"
   elements:
