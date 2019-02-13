@@ -13,12 +13,12 @@
     - {name: "github", link: "https://github.com/dmytrodanylyk"}
 -
   id: 5
-  name: "Juliana"
-  surname: "Chan"
-  company: "Asian Scientist Magazine"
-  title: "Editor-in-Chief"
+  name: "Drew
+  surname: "Berry"
+  company: "The Walter and Eliza Hall Institute of Medical Research"
+  title: "Biomedical animator"
   bio: "... "
-  thumbnailUrl: JulianaChan.jpg
+  thumbnailUrl: Drew_Berry.jpeg
   rockstar: true
   ribbon:
     - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
@@ -28,12 +28,12 @@
     - {name: "twitter", link: "https://twitter.com/mherych"}
 -
   id: 6
-  name: "Mary"
-  surname: "Voytek"
-  company: "NASA"
-  title: "Director of NASA Astrobiology"
+  name: "Kumi O."
+  surname: "Kuroda"
+  company: "RIKEN Center for Brain Science"
+  title: "Researcher"
   bio: "..."
-  thumbnailUrl: MaryVoytek.jpeg
+  thumbnailUrl: kumi_kuroda.jpg
   rockstar: true
   ribbon:
     - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
