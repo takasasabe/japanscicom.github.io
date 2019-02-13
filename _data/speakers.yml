@@ -1,11 +1,11 @@
 -
   id: 4
-  name: "Takao"
-  surname: "Someya"
-  company: "University of Tokyo"
-  title: "Researcher"
+  name: "Oana"
+  surname: "Sandu"
+  company: "European Southern Observatory"
+  title: "Press officer"
   bio: "..."
-  thumbnailUrl: Someya.jpg
+  thumbnailUrl: sandu_oana.png
   rockstar: true
   social:
     - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
