@@ -24,7 +24,7 @@
   name: "Taka Sasabe"
   team: true
   affiliation: RIKEN
-  #social:
+  social:
   - {name: "twitter", prefix: "https://twitter.com/", username: "tk_szmb"}
 -
   id: 4
