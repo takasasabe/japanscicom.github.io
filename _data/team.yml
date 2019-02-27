@@ -25,7 +25,7 @@
   team: true
   affiliation: RIKEN
   #social:
-    #- {name: "twitter", prefix: "https://twitter.com/", username: ""}#
+  - {name: "twitter", prefix: "https://twitter.com/", username: "tk_szmb"}
 -
   id: 4
   name: "Kaoru Natori"
