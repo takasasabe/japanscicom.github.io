@@ -15,7 +15,6 @@ description: "Join us to discuss global science communication & outreach in Japa
 baseurl: ""
 url: "https://japanscicom.github.io"
 permalink: "/blog/:title"
-youtubeId: m-jBaDe99uM
 #googleAnalyticsTrackingId: "UA-43643469-5"
 #googleAnalyticsSiteUrl: "ejtasker.github.io"
 
@@ -71,7 +70,7 @@ heroButtons:
 #- {link: "https://www.youtube.com/playlist?list=PL8VSGt4CBls32K-mpzW6xW1SubW5vnqgD", text: "New Video / 動画"}#
 #- {link: "https://jcom.sissa.it/archive/17/03/JCOM_1703_2018_R01", text: "CONFERENCE REVIEW / 論文"}#
 # - {permalink: "/#tickets", text: "Register"}
-- {include: youtubePlayer.html id=page.youtubeId}
+- {include: youtubePlayer.html id=page.m-jBaDe99uM}
 
 
 # About Block
