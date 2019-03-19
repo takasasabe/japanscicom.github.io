@@ -71,6 +71,7 @@ heroButtons:
 #- {link: "https://www.youtube.com/playlist?list=PL8VSGt4CBls32K-mpzW6xW1SubW5vnqgD", text: "New Video / 動画"}#
 #- {link: "https://jcom.sissa.it/archive/17/03/JCOM_1703_2018_R01", text: "CONFERENCE REVIEW / 論文"}#
 # - {permalink: "/#tickets", text: "Register"}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/m-jBaDe99uM?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # About Block
 aboutTitle: "About"
