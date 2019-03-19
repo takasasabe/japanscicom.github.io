@@ -7,7 +7,7 @@ safe: false
 markdown: kramdown
 permalink: pretty
 exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
-
+youtubeId: m-jBaDe99uM
 
 # Site Settings
 title: "Japan SciCom Forum"
@@ -71,7 +71,7 @@ heroButtons:
 #- {link: "https://www.youtube.com/playlist?list=PL8VSGt4CBls32K-mpzW6xW1SubW5vnqgD", text: "New Video / 動画"}#
 #- {link: "https://jcom.sissa.it/archive/17/03/JCOM_1703_2018_R01", text: "CONFERENCE REVIEW / 論文"}#
 # - {permalink: "/#tickets", text: "Register"}
-- {include: youtubePlayer.html id=page.m-jBaDe99uM}
+- {include: youtubePlayer.html id=page.youtubeId}
 
 
 # About Block
