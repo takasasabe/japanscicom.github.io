@@ -65,6 +65,7 @@ eventDate: "May 16-17, 2019"
 logo: "scicomlogo.png"
 typeoutTextValues: '"", "SciCom", "サイコム", ""'
 typeoutFallback: "SciCom"
+Youtubevideo: [![JSF promo video](https://img.youtube.com/vi/m-jBaDe99uM/0.jpg)](https://www.youtube.com/watch?v=m-jBaDe99uM)
 #youtubePlayer: {include: youtubePlayer.html id=page.m-jBaDe99uM}
 heroButtons:
 - {link: "https://goo.gl/forms/NXXfaAQnQMBvK9ht1", text: "Register / 参加登録"}
@@ -72,7 +73,6 @@ heroButtons:
 #- {link: "https://jcom.sissa.it/archive/17/03/JCOM_1703_2018_R01", text: "CONFERENCE REVIEW / 論文"}#
 # - {permalink: "/#tickets", text: "Register"}
 
-Youtubevideo: [![JSF promo video](https://img.youtube.com/vi/m-jBaDe99uM/0.jpg)](https://www.youtube.com/watch?v=m-jBaDe99uM)
 
 
 
