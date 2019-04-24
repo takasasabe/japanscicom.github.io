@@ -1,11 +1,11 @@
 -
   id: 4
-  name: "Oana"
-  surname: "Sandu"
-  company: "European Southern Observatory"
+  name: "Pete"
+  surname: "Farley"
+  company: "University of California, San Francisco"
   title: "Press officer"
   bio: "..."
-  thumbnailUrl: sandu_oana.png
+  thumbnailUrl: Pete_Farley.jpg
   rockstar: true
   social:
     - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
