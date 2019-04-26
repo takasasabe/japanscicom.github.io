@@ -54,9 +54,9 @@ navigationLinks:
 - {permalink: "https://japanscicom.github.io/2018", text: "JSF2018 archive"}
 # add links when registration form is ready
 bottomNavigationLinks:
-- {link: "https://goo.gl/forms/NXXfaAQnQMBvK9ht1", text: "Register"}
+- {link: "https://goo.gl/forms/NXXfaAQnQMBvK9ht1", text: "Registration closed"}
 rightNavigationButtons:
-- {link: "https://goo.gl/forms/NXXfaAQnQMBvK9ht1", text: "Register"}
+- {link: "https://goo.gl/forms/NXXfaAQnQMBvK9ht1", text: "Registration closed"}
 
 # Hero Block (heading with scrolling text)
 heroImage: "hero_background.jpg"
@@ -68,7 +68,7 @@ typeoutFallback: "SciCom"
 #Youtubevideo: [![JSF promo video](https://img.youtube.com/vi/m-jBaDe99uM/0.jpg)](https://www.youtube.com/watch?v=m-jBaDe99uM)
 #youtubePlayer: {include: youtubePlayer.html id=page.m-jBaDe99uM}
 heroButtons:
-- {link: "https://goo.gl/forms/NXXfaAQnQMBvK9ht1", text: "Register / 参加登録"}
+- {link: "https://goo.gl/forms/NXXfaAQnQMBvK9ht1", text: "Registration closed"}
 #- {link: "https://www.youtube.com/playlist?list=PL8VSGt4CBls32K-mpzW6xW1SubW5vnqgD", text: "New Video / 動画"}#
 #- {link: "https://jcom.sissa.it/archive/17/03/JCOM_1703_2018_R01", text: "CONFERENCE REVIEW / 論文"}#
 # - {permalink: "/#tickets", text: "Register"}
