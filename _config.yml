@@ -70,7 +70,7 @@ typeoutFallback: "SciCom"
 heroButtons:
 - {link: "https://goo.gl/forms/NXXfaAQnQMBvK9ht1", text: "Registration closed"}
 - {link: "https://www.youtube.com/playlist?list=PL8VSGt4CBls08AM58x6IAsNimJ27P-dO5", text: "NEW VIDEO / 動画"}
-- {link: "http://www.elsi.jp/en/blog/2019/06/20190628-Emma-Buchet.html", text: "BLOG / ブログ"}
+- {link: "https://blog.eurekalert.org/2019/07/23/reflections-on-2019-japan-scicom-forum/", text: "BLOG / ブログ"}
 # - {permalink: "/#tickets", text: "Register"}
 
 
