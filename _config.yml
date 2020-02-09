@@ -55,23 +55,23 @@ navigationLinks:
 - {permalink: "https://japanscicom.github.io/2019", text: "2019"}
 # add links when registration form is ready
 bottomNavigationLinks:
-- {link: "https://goo.gl/forms/NXXfaAQnQMBvK9ht1", text: "Registration closed"}
+# - {link: "https://goo.gl/forms/NXXfaAQnQMBvK9ht1", text: "Registration closed"}
 rightNavigationButtons:
-- {link: "https://goo.gl/forms/NXXfaAQnQMBvK9ht1", text: "Registration closed"}
+# - {link: "https://goo.gl/forms/NXXfaAQnQMBvK9ht1", text: "Registration closed"}
 
 # Hero Block (heading with scrolling text)
-heroImage: "background.jpg"
-heroTitle: "Japan <typeout> Forum 2019"
-eventDate: "May 16-17, 2019"
+heroImage: "hero_background.jpg"
+heroTitle: "Japan <typeout> Forum 2020"
+eventDate: "May 15, 2020"
 logo: "scicomlogo.png"
 typeoutTextValues: '"", "SciCom", "サイコム", ""'
 typeoutFallback: "SciCom"
 #Youtubevideo: [![JSF promo video](https://img.youtube.com/vi/m-jBaDe99uM/0.jpg)](https://www.youtube.com/watch?v=m-jBaDe99uM)
 #youtubePlayer: {include: youtubePlayer.html id=page.m-jBaDe99uM}
 heroButtons:
-- {link: "https://goo.gl/forms/NXXfaAQnQMBvK9ht1", text: "Registration closed"}
-- {link: "https://www.youtube.com/playlist?list=PL8VSGt4CBls08AM58x6IAsNimJ27P-dO5", text: "NEW VIDEO / 動画"}
-- {link: "https://blog.eurekalert.org/2019/07/23/reflections-on-2019-japan-scicom-forum/", text: "BLOG / ブログ"}
+ - {link: "xxxxx", text: "Registration coming soon"}
+# - {link: "https://www.youtube.com/playlist?list=PL8VSGt4CBls08AM58x6IAsNimJ27P-dO5", text: "NEW VIDEO / 動画"}
+# - {link: "https://blog.eurekalert.org/2019/07/23/reflections-on-2019-japan-scicom-forum/", text: "BLOG / ブログ"}
 # - {permalink: "/#tickets", text: "Register"}
 
 
@@ -113,14 +113,14 @@ latestNewsTitle: "Schedule"
 
 # Location Block
 locationBlockTitle: "Access"
-eventLocationName: "Earth-Life Science Institute (ELSI)"
-eventLocationLink: "https://goo.gl/maps/Tp8hZYm6rZT2"
-eventStreetAddress: "2-12-1-17E Ookayama, (Ishikawadai Bldg. 7/ELSI-1 Bldg.)"
-eventAddressLocality: "Meguro-ku, Tokyo"
-eventAddressLocalityRegion: "東京工業大学　地球生命研究所<br>東京都目黒区大岡山２ー１２ー１ー１７Ｅ　石川台７号館 (ＥＬＳＩー１)"
-eventPostalCode: "152-8550"
+# eventLocationName: "Earth-Life Science Institute (ELSI)"
+# eventLocationLink: "https://goo.gl/maps/Tp8hZYm6rZT2"
+# eventStreetAddress: "2-12-1-17E Ookayama, (Ishikawadai Bldg. 7/ELSI-1 Bldg.)"
+# eventAddressLocality: "Meguro-ku, Tokyo"
+# eventAddressLocalityRegion: "東京工業大学　地球生命研究所<br>東京都目黒区大岡山２ー１２ー１ー１７Ｅ　石川台７号館 (ＥＬＳＩー１)"
+# eventPostalCode: "152-8550"
 #eventAddressCountry: "Japan"
-eventLocationDescription: "<a href='http://www.elsi.jp/en/access.html'>Extra directions</a> / <a href='http://www.elsi.jp/ja/access.html'>ELSIへのアクセス</a>"
+# eventLocationDescription: "<a href='http://www.elsi.jp/en/access.html'>Extra directions</a> / <a href='http://www.elsi.jp/ja/access.html'>ELSIへのアクセス</a>"
 
 
 
@@ -144,7 +144,7 @@ mapMobileCenterCoordinates: "35.602018, 139.684809"
 # Tweets Feed Block
 tweetsFeedImage: "birds.jpg"
 tweetsFeedTitle: "Join the conversation on Twitter"
-twitterHashTag: "jsf19"
+twitterHashTag: "jsf20"
 #twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
 
 # Partners Block
