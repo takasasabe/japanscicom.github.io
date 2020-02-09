@@ -28,8 +28,8 @@
   - {name: "twitter", prefix: "https://twitter.com/", username: "tk_szmb"}
 -
   id: 4
-  name: "Kaoru Natori"
+  name: "Tomomi Okubo"
   team: true
   affiliation: OIST
   social:
-  - {name: "twitter", prefix: "https://twitter.com/", username: "kaoru_natori"}
+  - {name: "twitter", prefix: "https://twitter.com/", username: "imomofolio"}
