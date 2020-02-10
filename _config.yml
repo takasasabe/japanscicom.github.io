@@ -93,18 +93,18 @@ aboutBlock:
 # - {count: "20", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
 # - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
 
-statisticsText: "Science communication and outreach, especially to global audiences in English, is taking off in Japan. Japan Scicom Forum brings together communicators, writers, scientists, journalists and select experts from abroad to inspire and boost the cohesion of scicom in Japan, learn new skills and inform the community with best practices. Keynote talks will reflect on research/media interactions from the perspectives of both scientists and press professionals. Workshops will provide hands-on training to support communicators and scientists working in Japan as they engage in global outreach. Open discussion and networking opportunities are spread over the two-day program. Registration is free and the event will be in English."
+statisticsText: "Science communication and outreach, especially to global audiences in English, is taking off in Japan. Japan Scicom Forum brings together communicators, writers, scientists, journalists and select experts from abroad to inspire and boost the cohesion of scicom in Japan, learn new skills and inform the community with best practices. Keynote talks will reflect on research/media interactions from the perspectives of both scientists and press professionals. Workshops will provide hands-on training to support communicators and scientists working in Japan as they engage in global outreach. Open discussion and networking opportunities are spread over the program. Registration is free and the event will be in English."
 
 
-statisticsTextJp: "　英語による科学広報やアウトリーチは今、日本で活気を帯びています。ジャパン・サイコム・フォーラム2019では、サイエンスコミュニケーター、サイエンスライター、研究者、ジャーナリストに加え、海外で活躍する選りすぐりの専門家が一堂に会する場を提供します。海外に向けた研究成果の情報発信に携わる方、科学広報やアウトリーチに興味や関心のあるすべての方がご参加いただけます。<br>
+statisticsTextJp: "　英語による科学広報やアウトリーチは今、日本で活気を帯びています。ジャパン・サイコム・フォーラムでは、サイエンスコミュニケーター、サイエンスライター、研究者、ジャーナリストに加え、海外で活躍する選りすぐりの専門家が一堂に会する場を提供します。海外に向けた研究成果の情報発信に携わる方、科学広報やアウトリーチに興味や関心のあるすべての方がご参加いただけます。<br>
 
-<br>　基調講演では、科学や研究成果を題材とした広報や情報発信に特有の課題について、研究者や実務家の視点から探ります。ワークショップでは、対面で議論したり実際に手を動かしたりすることで、科学広報やアウトリーチの実務に活かせる実践的な知識を共有します。また、2日間にわたるプログラム中には参加者同士で議論し、ネットワーキングできる機会を設けています。本イベントの使用言語は英語ですが、基調講演は日英の同時通訳があります。<br>
+<br>　基調講演では、科学や研究成果を題材とした広報や情報発信に特有の課題について、研究者や実務家の視点から探ります。ワークショップでは、対面で議論したり実際に手を動かしたりすることで、科学広報やアウトリーチの実務に活かせる実践的な知識を共有します。また、プログラム中には参加者同士で議論し、ネットワーキングできる機会を設けています。本イベントの使用言語は英語です。<br>
 
-<br>　ジャパン・サイコム・フォーラム2019で、英語による科学広報やアウトリーチのスキルを磨き、横のつながりを作り、お互いのベストプラクティスを情報交換しませんか。"
+<br>　ジャパン・サイコム・フォーラムで、英語による科学広報やアウトリーチのスキルを磨き、横のつながりを作り、お互いのベストプラクティスを情報交換しませんか。"
 
 # Rockstar (Keynote) Speakers Block
 rockstarSpeakersImage: "tokyo.jpg"
-rockstarSpeakersCount: 3
+rockstarSpeakersCount: 2
 rockstarSpeakersTitle: "Keynote speakers"
 #rockstarSpeakersButtonText: "See all speakers"
 
@@ -113,6 +113,7 @@ latestNewsTitle: "Schedule"
 
 # Location Block
 locationBlockTitle: "Access"
+eventLocationName: "Details coming soon"
 # eventLocationName: "Earth-Life Science Institute (ELSI)"
 # eventLocationLink: "https://goo.gl/maps/Tp8hZYm6rZT2"
 # eventStreetAddress: "2-12-1-17E Ookayama, (Ishikawadai Bldg. 7/ELSI-1 Bldg.)"
@@ -149,8 +150,8 @@ twitterHashTag: "jsf20"
 
 # Partners Block
 partnersTitle: "Sponsors"
-partnerText: "The Earth-Life Science Institute (ELSI) at the Tokyo Institute of Technology is proud to host and support the Japan SciCom Forum 2019."
-partnerTextJP: "東京工業大学地球生命研究所（ELSI）は、ジャパン・サイコム・フォーラム2019を共催しています。"
+#partnerText: "The Earth-Life Science Institute (ELSI) at the Tokyo Institute of Technology is proud to host and support the Japan SciCom Forum 2019."
+#partnerTextJP: "東京工業大学地球生命研究所（ELSI）は、ジャパン・サイコム・フォーラムを共催しています。"
 
 
 # Organizing Team Block
