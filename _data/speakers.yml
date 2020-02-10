@@ -1,11 +1,11 @@
 -
   id: 4
-  name: "Pete"
-  surname: "Farley"
-  company: "University of California, San Francisco"
-  title: "Press officer"
+  name: "Speaker"
+  surname: "1"
+  company: "---"
+  title: "TBA"
   bio: "..."
-  thumbnailUrl: Pete_Farley2.png
+  thumbnailUrl: /img/favicons/mstile-150x150.png
   rockstar: true
   social:
     - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
@@ -13,12 +13,12 @@
     - {name: "github", link: "https://github.com/dmytrodanylyk"}
 -
   id: 5
-  name: "Drew"
-  surname: "Berry"
-  company: "The Walter and Eliza Hall Institute of Medical Research"
-  title: "Biomedical animator"
+  name: "Speaker"
+  surname: "2"
+  company: "---"
+  title: "TBA"
   bio: "... "
-  thumbnailUrl: Drew_Berry.jpeg
+  thumbnailUrl: mstile-150x150.png
   rockstar: true
   ribbon:
     - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
