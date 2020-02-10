@@ -5,7 +5,7 @@
   company: "---"
   title: "TBA"
   bio: "..."
-  thumbnailUrl: /img/favicons/mstile-150x150.png
+  #thumbnailUrl: kumi_kuroda.jpg
   rockstar: true
   social:
     - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
@@ -18,7 +18,7 @@
   company: "---"
   title: "TBA"
   bio: "... "
-  thumbnailUrl: mstile-150x150.png
+ # thumbnailUrl: kumi_kuroda.jpg
   rockstar: true
   ribbon:
     - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
@@ -28,12 +28,12 @@
     - {name: "twitter", link: "https://twitter.com/mherych"}
 -
   id: 6
-  name: "Kumi O."
-  surname: "Kuroda"
-  company: "RIKEN Center for Brain Science"
-  title: "Researcher"
+  name: "Speaker"
+  surname: "3"
+  company: "---"
+  title: "TBA"
   bio: "..."
-  thumbnailUrl: kumi_kuroda.jpg
+ # thumbnailUrl: kumi_kuroda.jpg
   rockstar: true
   ribbon:
     - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
