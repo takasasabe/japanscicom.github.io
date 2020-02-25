@@ -1,11 +1,11 @@
 -
   id: 4
-  name: "Takao"
-  surname: "Someya"
-  company: "University of Tokyo"
-  title: "Researcher"
+  name: "Speaker"
+  surname: "1"
+  company: "---"
+  title: "TBA"
   bio: "..."
-  thumbnailUrl: Someya.jpg
+  #thumbnailUrl: kumi_kuroda.jpg
   rockstar: true
   social:
     - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
@@ -13,12 +13,12 @@
     - {name: "github", link: "https://github.com/dmytrodanylyk"}
 -
   id: 5
-  name: "Juliana"
-  surname: "Chan"
-  company: "Asian Scientist Magazine"
-  title: "Editor-in-Chief"
+  name: "Speaker"
+  surname: "2"
+  company: "---"
+  title: "TBA"
   bio: "... "
-  thumbnailUrl: JulianaChan.jpg
+ # thumbnailUrl: kumi_kuroda.jpg
   rockstar: true
   ribbon:
     - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
@@ -28,12 +28,12 @@
     - {name: "twitter", link: "https://twitter.com/mherych"}
 -
   id: 6
-  name: "Mary"
-  surname: "Voytek"
-  company: "NASA"
-  title: "Director of NASA Astrobiology"
+  name: "Speaker"
+  surname: "3"
+  company: "---"
+  title: "TBA"
   bio: "..."
-  thumbnailUrl: MaryVoytek.jpeg
+ # thumbnailUrl: kumi_kuroda.jpg
   rockstar: true
   ribbon:
     - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}

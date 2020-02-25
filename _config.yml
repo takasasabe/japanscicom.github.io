@@ -8,7 +8,6 @@ markdown: kramdown
 permalink: pretty
 exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
-
 # Site Settings
 title: "Japan SciCom Forum"
 email: ""
@@ -52,30 +51,38 @@ navigationLinks:
 - {permalink: "/#location", text: "Access"}
 - {permalink: "/#sponsors", text: "Sponsors"}
 - {permalink: "/#team", text: "Organizers"}
+- {permalink: "https://japanscicom.github.io/2018", text: "ARCHIVE 2018"}
+- {permalink: "https://japanscicom.github.io/2019", text: "2019"}
+# add links when registration form is ready
 bottomNavigationLinks:
-- {link: "https://goo.gl/forms/px3ixCrFFUqvW2Ll1", text: "Register"}
+# - {link: "https://goo.gl/forms/NXXfaAQnQMBvK9ht1", text: "Registration closed"}
 rightNavigationButtons:
-- {link: "https://goo.gl/forms/px3ixCrFFUqvW2Ll1", text: "Register"}
+# - {link: "https://goo.gl/forms/NXXfaAQnQMBvK9ht1", text: "Registration closed"}
 
 # Hero Block (heading with scrolling text)
 heroImage: "hero_background.jpg"
-heroTitle: "Japan <typeout> Forum 2018"
-eventDate: "April 20, 2018"
+heroTitle: "Japan <typeout> Forum 2020"
+eventDate: "May 15, 2020"
 logo: "scicomlogo.png"
 typeoutTextValues: '"", "SciCom", "サイコム", ""'
 typeoutFallback: "SciCom"
+#Youtubevideo: [![JSF promo video](https://img.youtube.com/vi/m-jBaDe99uM/0.jpg)](https://www.youtube.com/watch?v=m-jBaDe99uM)
+#youtubePlayer: {include: youtubePlayer.html id=page.m-jBaDe99uM}
 heroButtons:
-- {link: "https://goo.gl/forms/px3ixCrFFUqvW2Ll1", text: "Registration closed / 参加登録締め切りました"}
-- {link: "https://www.youtube.com/playlist?list=PL8VSGt4CBls32K-mpzW6xW1SubW5vnqgD", text: "New Video / 動画"}
-- {link: "https://jcom.sissa.it/archive/17/03/JCOM_1703_2018_R01", text: "CONFERENCE REVIEW / 論文"}
+ - {link: "xxxxx", text: "Registration coming soon"}
+# - {link: "https://www.youtube.com/playlist?list=PL8VSGt4CBls08AM58x6IAsNimJ27P-dO5", text: "NEW VIDEO / 動画"}
+# - {link: "https://blog.eurekalert.org/2019/07/23/reflections-on-2019-japan-scicom-forum/", text: "BLOG / ブログ"}
 # - {permalink: "/#tickets", text: "Register"}
+
+
+
 
 # About Block
 aboutTitle: "About"
 aboutBlock:
-- {title: "Keynotes", image: "NN-talk.jpg", text: "Perspectives on global outreach from PIOs and leading scientists<br>英語による科学広報やアウトリーチについて、広報担当者や科学者の視座に耳を傾ける" }
-- {title: "Workshops", image: "Brian-workshop.JPG", text: "Hands-on sessions with experts in global press, social media and more<br>海外メディアやSNSの専門家と科学広報やアウトリーチのアクティビティを実践する" }
-- {title: "Networking", image: "nerdnite3.jpg", text: "Discussion and community-building to give science communication in Japan a global reach<br>英語による科学広報やアウトリーチを行う仲間を作り、意見を交わす" }
+- {title: "Keynotes", image: "keynote.jpg", text: "Perspectives on global outreach from PIOs and leading scientists<br>英語による科学広報やアウトリーチについて、広報担当者や科学者の視座に耳を傾ける" }
+- {title: "Workshops", image: "workshop.jpg", text: "Hands-on sessions with experts in global press, social media and more<br>海外メディアやSNSの専門家と科学広報やアウトリーチのアクティビティを実践する" }
+- {title: "Networking", image: "networking.jpg", text: "Discussion and community-building to give science communication in Japan a global reach<br>英語による科学広報やアウトリーチを行う仲間を作り、意見を交わす" }
 #aboutText: "Hello. This isn't used but can add text underneath three pictures."
 
 # Statistic Block (actully used for meeting description)
@@ -86,18 +93,18 @@ aboutBlock:
 # - {count: "20", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
 # - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
 
-statisticsText: "Science communication and outreach, especially to global audiences in English, is taking off in Japan. Japan Scicom Forum brings together communicators, writers, scientists, journalists and select experts from abroad to inspire and boost the cohesion of scicom in Japan, learn new skills, network, and inform the community with best practices. Keynote talks and panel discussions in the morning will reflect on the unique challenges and opportunities of research communication within and beyond Japan. Afternoon breakout workshops will provide hands-on training to support communicators and scientists working in Japan as they engage in global outreach. Registration is free and the event will be in English."
+statisticsText: "Science communication and outreach, especially to global audiences in English, is taking off in Japan. Japan Scicom Forum brings together communicators, writers, scientists, journalists and select experts from abroad to inspire and boost the cohesion of scicom in Japan, learn new skills and inform the community with best practices. Keynote talks will reflect on research/media interactions from the perspectives of both scientists and press professionals. Workshops will provide hands-on training to support communicators and scientists working in Japan as they engage in global outreach. Open discussion and networking opportunities are spread over the program. Registration is free and the event will be in English."
 
 
-statisticsTextJp: "　英語による科学広報やアウトリーチといった、科学を伝える活動は、今、日本で活気を帯びています。本イベントは、サイエンスコミュニケーター、サイエンスライター、研究者、ジャーナリストやこの分野の選りすぐりの海外の専門家が一堂に会する場を提供しようとする初めての試みです。海外に向けた研究成果の情報発信に携わる人をはじめ、科学広報やアウトリーチに興味や関心のあるすべての方が参加いただけるイベントです。<br>
+statisticsTextJp: "　英語による科学広報やアウトリーチは今、日本で活気を帯びています。ジャパン・サイコム・フォーラムでは、サイエンスコミュニケーター、サイエンスライター、研究者、ジャーナリストに加え、海外で活躍する選りすぐりの専門家が一堂に会する場を提供します。海外に向けた研究成果の情報発信に携わる方、科学広報やアウトリーチに興味や関心のあるすべての方がご参加いただけます。<br>
 
-<br>　午前中の基調講演とパネルディスカッションでは、科学や研究成果を題材とした広報や情報発信に特有の課題について、国内にとどまらず、海外の事例を含めて検討します。午後には、複数のグループに別れて、参加者が実際に手を動かして、国外向けの科学広報やアウトリーチの業務に活かせるような実践的なワークショップを行います。本イベントの使用言語は英語ですが、午前中は日英の同時通訳があります。<br>
+<br>　基調講演では、科学や研究成果を題材とした広報や情報発信に特有の課題について、研究者や実務家の視点から探ります。ワークショップでは、対面で議論したり実際に手を動かしたりすることで、科学広報やアウトリーチの実務に活かせる実践的な知識を共有します。また、プログラム中には参加者同士で議論し、ネットワーキングできる機会を設けています。本イベントの使用言語は英語です。<br>
 
-<br>　ジャパン・サイコム・フォーラム2018で、英語による科学広報やアウトリーチのスキルを磨き、横のつながりを作り、互いのベストプラクティスを情報交換しませんか。"
+<br>　ジャパン・サイコム・フォーラムで、英語による科学広報やアウトリーチのスキルを磨き、横のつながりを作り、お互いのベストプラクティスを情報交換しませんか。"
 
 # Rockstar (Keynote) Speakers Block
 rockstarSpeakersImage: "tokyo.jpg"
-rockstarSpeakersCount: 3
+rockstarSpeakersCount: 2
 rockstarSpeakersTitle: "Keynote speakers"
 #rockstarSpeakersButtonText: "See all speakers"
 
@@ -106,14 +113,15 @@ latestNewsTitle: "Schedule"
 
 # Location Block
 locationBlockTitle: "Access"
-eventLocationName: "Earth-Life Science Institute (ELSI)"
-eventLocationLink: "https://goo.gl/maps/Tp8hZYm6rZT2"
-eventStreetAddress: "2-12-1-17E Ookayama, (Ishikawadai Bldg. 7/ELSI-1 Bldg.)"
-eventAddressLocality: "Meguro-ku, Tokyo"
-eventAddressLocalityRegion: "東京工業大学　地球生命研究所<br>東京都目黒区大岡山２ー１２ー１ー１７Ｅ　石川台７号館 (ＥＬＳＩー１)"
-eventPostalCode: "152-8550"
+eventLocationName: "Details coming soon"
+# eventLocationName: "Earth-Life Science Institute (ELSI)"
+# eventLocationLink: "https://goo.gl/maps/Tp8hZYm6rZT2"
+# eventStreetAddress: "2-12-1-17E Ookayama, (Ishikawadai Bldg. 7/ELSI-1 Bldg.)"
+# eventAddressLocality: "Meguro-ku, Tokyo"
+# eventAddressLocalityRegion: "東京工業大学　地球生命研究所<br>東京都目黒区大岡山２ー１２ー１ー１７Ｅ　石川台７号館 (ＥＬＳＩー１)"
+# eventPostalCode: "152-8550"
 #eventAddressCountry: "Japan"
-eventLocationDescription: "<a href='http://www.elsi.jp/en/access.html'>Extra directions</a> / <a href='http://www.elsi.jp/ja/access.html'>ELSIへのアクセス</a>"
+# eventLocationDescription: "<a href='http://www.elsi.jp/en/access.html'>Extra directions</a> / <a href='http://www.elsi.jp/ja/access.html'>ELSIへのアクセス</a>"
 
 
 
@@ -137,27 +145,25 @@ mapMobileCenterCoordinates: "35.602018, 139.684809"
 # Tweets Feed Block
 tweetsFeedImage: "birds.jpg"
 tweetsFeedTitle: "Join the conversation on Twitter"
-twitterHashTag: "jsf18"
+twitterHashTag: "jsf20"
 #twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
 
 # Partners Block
 partnersTitle: "Sponsors"
-partnerText: "The Earth-Life Science Institute (ELSI) at the Tokyo Institute of Technology is proud to be a host and supporter of the Japan SciCom Forum 2018. As a World Premier International (<a href='http://www.jsps.go.jp/english/e-toplevel/'target='_blank'>WPI</a>) research center funded by the Japanese government, fostering English-language science communication and outreach in Japan is key to our mission of scientific leadership, globalization, and innovation within the research community. When news of the research carried out in Japan can effectively reach a global audience, the whole national science community will benefit."
-
-partnerTextJP: "東京工業大学地球生命研究所（ELSI）は、ジャパン・サイコム・フォーラム2018を主催しています。当研究所は、文部科学省事業、世界トップレベル研究拠点プログラム（<a href='http://www.jsps.go.jp/j-toplevel/' target='_blank'>WPI</a>) の研究拠点として、日本における英語による科学コミュニケーションとアウトリーチを育むことは、科学研究におけるリーダーシップ、グローバリゼーション、研究コミュニティにおけるイノベーションという私たちのミッションを達成する上で重要であると考えております。日本で行われた研究のニュースが世界中の人々に知れ渡ることは、日本の科学コミュニティ全体にとって有益となることでしょう。"
-
+#partnerText: "The Earth-Life Science Institute (ELSI) at the Tokyo Institute of Technology is proud to host and support the Japan SciCom Forum 2019."
+#partnerTextJP: "東京工業大学地球生命研究所（ELSI）は、ジャパン・サイコム・フォーラムを共催しています。"
 
 
 # Organizing Team Block
 teamBlockTitle: "Organizers"
 
 # Subscribe Block
-subscribeImage: "keyboard-street-art.jpg"
+subscribeImage: "JSF19_group_photo.jpg"
 subscribeTitle: "Registration"
 
 #subscribeAction: "http://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
 
-subscribeInfo: "<a href='https://www.youtube.com/playlist?list=PL8VSGt4CBls32K-mpzW6xW1SubW5vnqgD' target='_blank'>Video</a> from the morning sessions is now online. 当日の午前中の動画は<a href='https://www.youtube.com/playlist?list=PL8VSGt4CBls32K-mpzW6xW1SubW5vnqgD' target='_blank'>こちら</a>からご覧いただけるようになりました。"
+#subscribeInfo: "<a href='https://www.youtube.com/playlist?list=PL8VSGt4CBls32K-mpzW6xW1SubW5vnqgD' target='_blank'>Video</a> from the morning sessions is now online. 当日の午前中の動画は<a href='https://www.youtube.com/playlist?list=PL8VSGt4CBls32K-mpzW6xW1SubW5vnqgD' target='_blank'>こちら</a>からご覧いただけるようになりました。"#
 
 
 # Tickets Block
@@ -217,7 +223,7 @@ footerBlocks:
 -
   title: "Contact / お問い合わせ"
   links:
-   - {"", text: "Email jsf18 at kikenji dot sakura dot ne dot jp （日本語でのお問い合わせにも対応しています）"}
+   - {link: "mailto:jsf20@kikenji.sakura.ne.jp", text: "Email jsf20@kikenji.sakura.ne.jp （日本語でのお問い合わせにも対応しています）"}
 -
   title: "Code of Conduct / 参加者の心構え（行動規範）"
   links:
