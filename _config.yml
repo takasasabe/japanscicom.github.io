@@ -55,9 +55,9 @@ navigationLinks:
 - {permalink: "https://japanscicom.github.io/2019", text: "2019"}
 # add links when registration form is ready
 bottomNavigationLinks:
-- {link: "https://forms.gle/gyMGwBa5SVzCX2Gy7", text: "Registration open"}
+ - {link: "https://forms.gle/gyMGwBa5SVzCX2Gy7", text: "Registration open"}
 rightNavigationButtons:
-- {link: "https://forms.gle/gyMGwBa5SVzCX2Gy7", text: "Registration open"}
+ - {link: "https://forms.gle/gyMGwBa5SVzCX2Gy7", text: "Registration open"}
 
 # Hero Block (heading with scrolling text)
 heroImage: "hero_background.jpg"
