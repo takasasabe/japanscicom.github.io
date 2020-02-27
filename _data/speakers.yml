@@ -1,22 +1,22 @@
 -
   id: 4
-  name: "Speaker"
-  surname: "1"
-  company: "---"
-  title: "TBA"
+  name: "Lena"
+  surname: "Okajima"
+  company: "Star ALE"
+  title: ""
   bio: "..."
-  #thumbnailUrl: kumi_kuroda.jpg
+  thumbnailUrl: lena-okajima.jpg
   rockstar: true
   social:
-    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-    - {name: "github", link: "https://github.com/dmytrodanylyk"}
+ #   - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
+ #   - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
+ #   - {name: "github", link: "https://github.com/dmytrodanylyk"}
 -
   id: 5
   name: "Speaker"
   surname: "2"
-  company: "---"
-  title: "TBA"
+  company: "Coming soon"
+  title: "..."
   bio: "... "
  # thumbnailUrl: kumi_kuroda.jpg
   rockstar: true
@@ -27,17 +27,17 @@
     - {name: "google-plus", link: "https://plus.google.com/+MateuszHerych"}
     - {name: "twitter", link: "https://twitter.com/mherych"}
 -
-  id: 6
-  name: "Speaker"
-  surname: "3"
-  company: "---"
-  title: "TBA"
-  bio: "..."
+#  id: 6
+#  name: "Speaker"
+#  surname: "3"
+#  company: "---"
+#  title: "TBA"
+#  bio: "..."
  # thumbnailUrl: kumi_kuroda.jpg
-  rockstar: true
-  ribbon:
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
-  social:
-    - {name: "google-plus", link: "https://plus.google.com/+RomanMazur/"}
-    - {name: "twitter", link: "http://twitter.com/roman_mazur"}
+#  rockstar: true
+#  ribbon:
+#    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+#  social:
+#    - {name: "google-plus", link: "https://plus.google.com/+RomanMazur/"}
+#    - {name: "twitter", link: "http://twitter.com/roman_mazur"}
 -
