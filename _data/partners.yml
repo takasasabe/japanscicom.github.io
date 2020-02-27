@@ -2,7 +2,7 @@
   group: " "
   elements:
     - {name: "EurekAlert!", description: "The global source for science news", link: "https://www.eurekalert.org/", imageUrl: "EurekAlertlogo.jpg", width: "180px", imagewidth: "180"}
-     - {name: "Miratuku", description: "Miratuku", link: "http://emerging-future.org/", imageUrl: "miratuku.png", imagewidth: "340"}
+    - {name: "Miratuku", description: "Miratuku", link: "http://emerging-future.org/", imageUrl: "miratuku.png", imagewidth: "500"}
   
 # -
 #  group: "Part of the RIKEN Symposium series"
@@ -11,5 +11,5 @@
 -
   group: "With support from"
   elements:
-    - {name: "ELSI", description: "Earth-Life Science Institute", link: "http://www.elsi.jp/en/", imageUrl: "elsilogo.png", text: "1", width: "800px", imagewidth: "200"}
-  #  - {name: "RUC", description: "Research University Consortium", link: "http://www.ruconsortium.jp", imageUrl: "RUClogo.jpg", width: "340px", imagewidth: "340"}
+    - {name: "ELSI", description: "Earth-Life Science Institute", link: "http://www.elsi.jp/en/", imageUrl: "elsilogo.png", width: "800px", imagewidth: "200"}
+  # - {name: "RUC", description: "Research University Consortium", link: "http://www.ruconsortium.jp", imageUrl: "RUClogo.jpg", width: "340px", imagewidth: "340"}
