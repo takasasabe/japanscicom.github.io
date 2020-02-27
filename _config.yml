@@ -55,9 +55,9 @@ navigationLinks:
 - {permalink: "https://japanscicom.github.io/2019", text: "2019"}
 # add links when registration form is ready
 bottomNavigationLinks:
-# - {link: "https://goo.gl/forms/NXXfaAQnQMBvK9ht1", text: "Registration closed"}
+- {link: "https://forms.gle/gyMGwBa5SVzCX2Gy7", text: "Registration open"}
 rightNavigationButtons:
-# - {link: "https://goo.gl/forms/NXXfaAQnQMBvK9ht1", text: "Registration closed"}
+- {link: "https://forms.gle/gyMGwBa5SVzCX2Gy7", text: "Registration open"}
 
 # Hero Block (heading with scrolling text)
 heroImage: "hero_background.jpg"
@@ -69,7 +69,7 @@ typeoutFallback: "SciCom"
 #Youtubevideo: [![JSF promo video](https://img.youtube.com/vi/m-jBaDe99uM/0.jpg)](https://www.youtube.com/watch?v=m-jBaDe99uM)
 #youtubePlayer: {include: youtubePlayer.html id=page.m-jBaDe99uM}
 heroButtons:
- - {link: "xxxxx", text: "Registration coming soon"}
+ - {link: "https://forms.gle/gyMGwBa5SVzCX2Gy7", text: "Registration open"}
 # - {link: "https://www.youtube.com/playlist?list=PL8VSGt4CBls08AM58x6IAsNimJ27P-dO5", text: "NEW VIDEO / 動画"}
 # - {link: "https://blog.eurekalert.org/2019/07/23/reflections-on-2019-japan-scicom-forum/", text: "BLOG / ブログ"}
 # - {permalink: "/#tickets", text: "Register"}
@@ -113,24 +113,23 @@ latestNewsTitle: "Schedule"
 
 # Location Block
 locationBlockTitle: "Access"
-eventLocationName: "Details coming soon"
-# eventLocationName: "Earth-Life Science Institute (ELSI)"
-# eventLocationLink: "https://goo.gl/maps/Tp8hZYm6rZT2"
-# eventStreetAddress: "2-12-1-17E Ookayama, (Ishikawadai Bldg. 7/ELSI-1 Bldg.)"
-# eventAddressLocality: "Meguro-ku, Tokyo"
-# eventAddressLocalityRegion: "東京工業大学　地球生命研究所<br>東京都目黒区大岡山２ー１２ー１ー１７Ｅ　石川台７号館 (ＥＬＳＩー１)"
-# eventPostalCode: "152-8550"
-#eventAddressCountry: "Japan"
-# eventLocationDescription: "<a href='http://www.elsi.jp/en/access.html'>Extra directions</a> / <a href='http://www.elsi.jp/ja/access.html'>ELSIへのアクセス</a>"
+eventLocationName: "RIKEN"
+eventLocationLink: "https://goo.gl/maps/N3bX537gub34dNQM9"
+eventStreetAddress: "Umetaro Hall, Bioscience Building"
+eventAddressLocality: "2-1 Hirosawa, Wako-shi, Saitama"
+eventAddressLocalityRegion: "埼玉県和光市広沢2-1"
+eventPostalCode: "351-0198"
+# eventAddressCountry: "Japan"
+eventLocationDescription: "<a href="https://www.riken.jp/en/access/wako-map/">Access to RIKEN</a> / <a href="https://www.riken.jp/access/wako-map/">RIKENへのアクセス</a>"
 
 
 
 #eventStartTime: "2018-04-18T09:00"
 #eventDoorTime: "08:30"
 #eventEndTime: "2018-04-18T17:00"
-eventPlaceCoordinates: "35.602018, 139.684809"
-mapCenterCoordinates: "35.602018, 139.6848091"
-mapMobileCenterCoordinates: "35.602018, 139.684809"
+eventPlaceCoordinates: "35.777218, 139.610620"
+mapCenterCoordinates: "35.777218, 139.610620"
+mapMobileCenterCoordinates: "35.777218, 139.610620"
 
 
 # Venue Block
