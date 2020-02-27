@@ -2,9 +2,9 @@
   group: " "
   elements:
     - {name: "EurekAlert!", description: "The global source for science news", link: "https://www.eurekalert.org/", imageUrl: "EurekAlertlogo.jpg", width: "180px", imagewidth: "180"}
-    - {name: "Miratuku", description: "Miratuku", link: "http://emerging-future.org/", imageUrl: "miratuku.png", text: "1", width: "800px", imagewidth: "200"}
+     - {name: "Miratuku", description: "Miratuku", link: "http://emerging-future.org/", imageUrl: "miratuku.png", imagewidth: "340"}
   
--
+# -
 #  group: "Part of the RIKEN Symposium series"
  # elements:
   #      - {name: "RIKEN", description: "RIKEN", link: "http://www.riken.jp/en/", imageUrl: "RIKEN_red.jpg", imagewidth: "200"}
