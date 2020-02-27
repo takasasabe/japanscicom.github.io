@@ -120,7 +120,7 @@ eventAddressLocality: "2-1 Hirosawa, Wako-shi, Saitama"
 eventAddressLocalityRegion: "埼玉県和光市広沢2-1"
 eventPostalCode: "351-0198"
 # eventAddressCountry: "Japan"
-eventLocationDescription: "<a href="https://www.riken.jp/en/access/wako-map/">Access to RIKEN</a> / <a href="https://www.riken.jp/access/wako-map/">RIKENへのアクセス</a>"
+eventLocationDescription: "<a href='https://www.riken.jp/en/access/wako-map/'>Access to RIKEN</a> / <a href='https://www.riken.jp/access/wako-map/'>RIKENへのアクセス</a>"
 
 
 
