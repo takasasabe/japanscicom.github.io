@@ -1,11 +1,11 @@
 -
   id: 4
-  name: "Lena"
-  surname: "Okajima"
-  company: "ALE"
+  name: "Speaker"
+  surname: "1"
+  company: "Coming soon"
   title: ""
   bio: "..."
-  thumbnailUrl: lena-okajima.jpg
+  #thumbnailUrl: lena-okajima.jpg
   rockstar: true
   social:
  #   - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
