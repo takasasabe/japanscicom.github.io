@@ -55,21 +55,21 @@ navigationLinks:
 - {permalink: "https://japanscicom.github.io/2019", text: "2019"}
 # add links when registration form is ready
 bottomNavigationLinks:
- - {link: "https://forms.gle/gyMGwBa5SVzCX2Gy7", text: "Registration open"}
+ - {link: "https://forms.gle/gyMGwBa5SVzCX2Gy7", text: "Registration closed"}
 rightNavigationButtons:
- - {link: "https://forms.gle/gyMGwBa5SVzCX2Gy7", text: "Registration open"}
+ - {link: "https://forms.gle/gyMGwBa5SVzCX2Gy7", text: "Registration closed"}
 
 # Hero Block (heading with scrolling text)
 heroImage: "hero_background.jpg"
-heroTitle: "Japan <typeout> Forum 2020"
-eventDate: "May 15, 2020"
+heroTitle: "Japan <typeout> Forum"
+eventDate: "Postponed to 2021 due to the coronavirus situation!"
 logo: "scicomlogo.png"
 typeoutTextValues: '"", "SciCom", "サイコム", ""'
 typeoutFallback: "SciCom"
 #Youtubevideo: [![JSF promo video](https://img.youtube.com/vi/m-jBaDe99uM/0.jpg)](https://www.youtube.com/watch?v=m-jBaDe99uM)
 #youtubePlayer: {include: youtubePlayer.html id=page.m-jBaDe99uM}
 heroButtons:
- - {link: "https://forms.gle/gyMGwBa5SVzCX2Gy7", text: "Registration open"}
+ - {link: "https://forms.gle/gyMGwBa5SVzCX2Gy7", text: "Registration closed"}
 # - {link: "https://www.youtube.com/playlist?list=PL8VSGt4CBls08AM58x6IAsNimJ27P-dO5", text: "NEW VIDEO / 動画"}
 # - {link: "https://blog.eurekalert.org/2019/07/23/reflections-on-2019-japan-scicom-forum/", text: "BLOG / ブログ"}
 # - {permalink: "/#tickets", text: "Register"}
@@ -113,14 +113,14 @@ latestNewsTitle: "Schedule"
 
 # Location Block
 locationBlockTitle: "Access"
-eventLocationName: "RIKEN"
-eventLocationLink: "https://goo.gl/maps/N3bX537gub34dNQM9"
-eventStreetAddress: "Suzuki Umetaro Hall, Bioscience Building"
-eventAddressLocality: "2-1 Hirosawa, Wako-shi, Saitama"
-eventAddressLocalityRegion: "埼玉県和光市広沢2-1"
-eventPostalCode: "351-0198"
+#eventLocationName: "RIKEN"
+#eventLocationLink: "https://goo.gl/maps/N3bX537gub34dNQM9"
+#eventStreetAddress: "Suzuki Umetaro Hall, Bioscience Building"
+#eventAddressLocality: "2-1 Hirosawa, Wako-shi, Saitama"
+#eventAddressLocalityRegion: "埼玉県和光市広沢2-1"
+#eventPostalCode: "351-0198"
 # eventAddressCountry: "Japan"
-eventLocationDescription: "<a href='https://www.riken.jp/en/access/wako-map/'>Access to RIKEN</a> / <a href='https://www.riken.jp/access/wako-map/'>RIKENへのアクセス</a>"
+#eventLocationDescription: "<a href='https://www.riken.jp/en/access/wako-map/'>Access to RIKEN</a> / <a href='https://www.riken.jp/access/wako-map/'>RIKENへのアクセス</a>"
 
 
 
