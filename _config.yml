@@ -55,9 +55,9 @@ navigationLinks:
 - {permalink: "https://japanscicom.github.io/2019", text: "2019"}
 # add links when registration form is ready
 bottomNavigationLinks:
- - {link: "https://forms.gle/gyMGwBa5SVzCX2Gy7", text: "Registration closed"}
+ - {link: "https://groups.google.com/g/japan-scicom-forum/", text: "Join mailing list"}
 rightNavigationButtons:
- - {link: "https://forms.gle/gyMGwBa5SVzCX2Gy7", text: "Registration closed"}
+ - {link: "https://groups.google.com/g/japan-scicom-forum/", text: "Join mailing list"}
 
 # Hero Block (heading with scrolling text)
 heroImage: "hero_background.jpg"
@@ -69,7 +69,7 @@ typeoutFallback: "SciCom"
 #Youtubevideo: [![JSF promo video](https://img.youtube.com/vi/m-jBaDe99uM/0.jpg)](https://www.youtube.com/watch?v=m-jBaDe99uM)
 #youtubePlayer: {include: youtubePlayer.html id=page.m-jBaDe99uM}
 heroButtons:
- - {link: "https://forms.gle/gyMGwBa5SVzCX2Gy7", text: "Registration closed"}
+ - {link: "https://groups.google.com/g/japan-scicom-forum/", text: "Join mailing list"}
 # - {link: "https://www.youtube.com/playlist?list=PL8VSGt4CBls08AM58x6IAsNimJ27P-dO5", text: "NEW VIDEO / 動画"}
 # - {link: "https://blog.eurekalert.org/2019/07/23/reflections-on-2019-japan-scicom-forum/", text: "BLOG / ブログ"}
 # - {permalink: "/#tickets", text: "Register"}
