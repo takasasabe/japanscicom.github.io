@@ -2,7 +2,7 @@
   id: 0
   name: "Ayumi Koso"
   team: true
-  affiliation: NIHU
+  affiliation: NIG
   social:
     - {name: "twitter", prefix: "https://twitter.com/", username: "iyoumek"}
 -
