@@ -62,7 +62,7 @@ rightNavigationButtons:
 # Hero Block (heading with scrolling text)
 heroImage: "hero_background.jpg"
 heroTitle: "Japan <typeout> Forum"
-eventDate: "Postponed to 2021 due to the coronavirus situation!"
+eventDate: "Online October 26-27, 2021"
 logo: "scicomlogo.png"
 typeoutTextValues: '"", "SciCom", "サイコム", ""'
 typeoutFallback: "SciCom"
@@ -144,7 +144,7 @@ mapMobileCenterCoordinates: "35.777218, 139.610620"
 # Tweets Feed Block
 tweetsFeedImage: "birds.jpg"
 tweetsFeedTitle: "Join the conversation on Twitter"
-twitterHashTag: "jsf20"
+twitterHashTag: "jsf21"
 #twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
 
 # Partners Block
