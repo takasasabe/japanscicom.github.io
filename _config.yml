@@ -127,9 +127,9 @@ latestNewsTitle: "Schedule"
 #eventStartTime: "2018-04-18T09:00"
 #eventDoorTime: "08:30"
 #eventEndTime: "2018-04-18T17:00"
-#eventPlaceCoordinates: "35.777218, 139.610620"
-#mapCenterCoordinates: "35.777218, 139.610620"
-#mapMobileCenterCoordinates: "35.777218, 139.610620"
+eventPlaceCoordinates: "35.777218, 139.610620"
+mapCenterCoordinates: "35.777218, 139.610620"
+mapMobileCenterCoordinates: "35.777218, 139.610620"
 
 
 # Venue Block
