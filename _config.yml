@@ -48,7 +48,7 @@ navigationLinks:
 - {permalink: "/#about", text: "About"}
 - {permalink: "/#speakers", text: "Speakers"}
 - {permalink: "/#schedule", text: "Schedule"}
-- {permalink: "/#location", text: "Access"}
+# - {permalink: "/#location", text: "Access"}
 - {permalink: "/#sponsors", text: "Sponsors"}
 - {permalink: "/#team", text: "Organizers"}
 - {permalink: "https://japanscicom.github.io/2018", text: "ARCHIVE 2018"}
@@ -104,8 +104,8 @@ statisticsTextJp: "　英語による科学広報やアウトリーチは今、�
 
 # Rockstar (Keynote) Speakers Block
 rockstarSpeakersImage: "tokyo.jpg"
-rockstarSpeakersCount: 2
-rockstarSpeakersTitle: "Keynote speakers"
+rockstarSpeakersCount: 1
+rockstarSpeakersTitle: "Keynote speaker"
 #rockstarSpeakersButtonText: "See all speakers"
 
 # Announcements
