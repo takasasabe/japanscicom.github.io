@@ -5,7 +5,7 @@
   company: "Coming soon"
   title: ""
   bio: "..."
-thumbnailUrl: lena-okajima.jpg
+#thumbnailUrl: lena-okajima.jpg
   rockstar: true
   social:
  #   - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
@@ -18,7 +18,7 @@ thumbnailUrl: lena-okajima.jpg
   company: "Coming soon"
   title: "..."
   bio: "... "
- thumbnailUrl: lena-okajima.jpg
+ # thumbnailUrl: kumi_kuroda.jpg
   rockstar: true
   ribbon:
     - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
