@@ -162,7 +162,8 @@ subscribeTitle: "Registration"
 
 #subscribeAction: "http://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
 
-#subscribeInfo: "<a href='https://www.youtube.com/playlist?list=PL8VSGt4CBls32K-mpzW6xW1SubW5vnqgD' target='_blank'>Video</a> from the morning sessions is now online. 当日の午前中の動画は<a href='https://www.youtube.com/playlist?list=PL8VSGt4CBls32K-mpzW6xW1SubW5vnqgD' target='_blank'>こちら</a>からご覧いただけるようになりました。"#
+subscribeInfo: "Registration will open soon. Join the mailing list to be notified."
+#subscribeInfo: "<a href='https://www.youtube.com/playlist?list=PL8VSGt4CBls32K-mpzW6xW1SubW5vnqgD' target='_blank'>Video</a> from the morning sessions is now online. 当日の午前中の動画は<a href='https://www.youtube.com/playlist?list=PL8VSGt4CBls32K-mpzW6xW1SubW5vnqgD' target='_blank'>こちら</a>からご覧いただけるようになりました。"
 
 
 # Tickets Block
