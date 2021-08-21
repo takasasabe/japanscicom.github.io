@@ -3,7 +3,7 @@
   elements:
     - {name: "EurekAlert!", description: "The global source for science news", link: "https://www.eurekalert.org/", imageUrl: "EurekAlertlogo.jpg", width: "180px", imagewidth: "180"}
     - {name: "Miratuku", description: "Miratuku", link: "http://emerging-future.org/", imageUrl: "miratuku.png", imagewidth: "500"}
-  
+
 # -
 #  group: "Part of the RIKEN Symposium series"
  # elements:
@@ -12,5 +12,5 @@
   group: "With support from"
   elements:
     - {name: "ELSI", description: "Earth-Life Science Institute", link: "http://www.elsi.jp/en/", imageUrl: "elsilogo.png", width: "800px", imagewidth: "200"}
-    - {name: "Springer Nature", description: "Springer Nature", link: "https://www.springernature.com/jp", imageUrl: "SN_logo.png", width: "800px", imagewidth: "200"}
+    - {name: "Springer Nature", description: "Springer Nature", link: "https://www.springernature.com/jp/", imageUrl: "SN_logo.png", width: "800px", imagewidth: "200"}
   # - {name: "RUC", description: "Research University Consortium", link: "http://www.ruconsortium.jp", imageUrl: "RUClogo.jpg", width: "340px", imagewidth: "340"}
